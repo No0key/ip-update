@@ -4,7 +4,7 @@ DNS_RECURSORS_LIST="8.8.8.8 208.67.222.222"
 WORKDIR="/home/user/workdir"
 LOGFILE="${WORKDIR}/log"
 DIG_OUTPUT_FILE="${WORKDIR}/output"
-DOMAIN_LIST="habr.com"
+DOMAIN_LIST="whitelist.yclients.cloud vpn.yclients.cloud"
 IP_LIST_CURRENT=""
 IP_LIST=""
 
